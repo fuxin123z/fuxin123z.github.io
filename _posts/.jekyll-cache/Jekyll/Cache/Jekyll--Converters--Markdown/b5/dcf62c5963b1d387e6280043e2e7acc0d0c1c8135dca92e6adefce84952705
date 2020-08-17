@@ -1,0 +1,36 @@
+I"�<ul id="markdown-toc">
+  <li><a href="#图片" id="markdown-toc-图片">图片</a></li>
+  <li><a href="#附件" id="markdown-toc-附件">附件</a></li>
+  <li><a href="#说明" id="markdown-toc-说明">说明</a></li>
+  <li><a href="#参考资料" id="markdown-toc-参考资料">参考资料</a></li>
+</ul>
+
+<h2 id="图片">图片</h2>
+
+<p>图片是博客系统中使用非常频繁的表达方式，如何在你博客加入图片呢，这里
+简单介绍一下，在jekyll中加入图片，在博客系统根路径下面建一个media文件夹
+用于存放多媒体资源，使用图片相对路径，在超链接markdown标签前加叹号即可，
+下面是一张图片显示案例。</p>
+
+<p><img src="/media/image/test_001.jpg" alt="test_001" /></p>
+
+<h2 id="附件">附件</h2>
+
+<p>附件的方式和图片基本一样，就是一个超链接，链接地址即为附件。附件的显示
+方式和超链接是一样的，只是这里需要写入附件的相对路径。</p>
+
+<p><a href="/media/audio/test_001.mp3">我的音频</a></p>
+
+<h2 id="说明">说明</h2>
+
+<p>添加多媒体有很多种方式，这里只是介绍最简单一种，也可以按照上面格式输入
+多媒体全路径。如果不懂这种方式，可以直接fork项目看编码实现：[abaojin]
+(https://github.com/abaojin/abaojin.github.io)。</p>
+
+<h2 id="参考资料">参考资料</h2>
+
+<p><a href="http://www.cnblogs.com/OtisBlog/p/4487660.html">博客资料</a></p>
+
+<p><a href="http://jekyll.com.cn/">jekyll官网</a></p>
+
+:ET
