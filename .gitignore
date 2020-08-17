@@ -2,3 +2,6 @@
 .DS_Store
 _posts/.DS_Store
 media/.DS_Store
+
+.jekyll-cache/
+_site/
