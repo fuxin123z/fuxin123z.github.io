@@ -8,7 +8,7 @@ title: 关于我
 <h3> 如何联系我 </h3>  
 
 <p> 
-email：444216502@qq.com      
+Email：444216502@qq.com      
 
 <p> 
 新浪地址: https://weibo.com/fuxin123zz
