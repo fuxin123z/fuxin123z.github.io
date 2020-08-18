@@ -64,6 +64,6 @@ AOPA无人机驾驶员考证专用训练机
 ### 教师资质
 ![](https://ss2.meipian.me/users/53257518/1584534195161.jpg-mobile)
 
-[学院介绍⬀](https://fuxin123zz.gitee.io/2020/08/12/xueyuan/)
+
 
 
