@@ -6,11 +6,6 @@ group: navigation
 ---
 {% include JB/setup %}
 
-<ul class="tag_box inline">
-  {% assign tags_list = site.tags %}  
-  {% include JB/tags_list %}
-</ul>
-
 
 
 <div class="search-container">
@@ -33,6 +28,16 @@ group: navigation
 	exclude: ['Welcome']
   })
 </script>
+
+
+
+<ul class="tag_box inline">
+  {% assign tags_list = site.tags %}  
+  {% include JB/tags_list %}
+</ul>
+
+
+
 
 
 
