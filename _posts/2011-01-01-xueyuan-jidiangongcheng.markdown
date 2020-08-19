@@ -2,7 +2,7 @@
 
 layout: post
 
-title: 吉林省林业技师学院机械类专业
+title: 吉林省林业技师学院机械类(专业)
 
 tags: 学院
 

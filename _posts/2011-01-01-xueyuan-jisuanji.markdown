@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: 计算机应用工程系
+title: 计算机应用工程系(专业)
 
 tags: 学院
 

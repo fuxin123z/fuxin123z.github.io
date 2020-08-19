@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: 无人机应用技术专业业
+title: 无人机应用技术(专业)
 
 tags: 学院
 
