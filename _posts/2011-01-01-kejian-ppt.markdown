@@ -4,8 +4,8 @@ layout: post
 title: 课件（制图和机械知识）
 
 tags: 
-    - 机械制图
-    - 机械知识
+    - 机械制图学科
+    - 机械知识学科
 
 categories:
 

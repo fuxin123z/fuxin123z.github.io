@@ -2,7 +2,7 @@
 layout: post
 title: 制图课动态排名，ppt公开课
 date: 2020-01-01
-tag: 制图
+tag: 机械制图学科
 ---
 
 
