@@ -77,3 +77,4 @@ paginate_path: "page/:num/"
 plugins:
  - jekyll-sitemap    #jekyll的站点地图插件，用于生成站点地图
  - jekyll-admin
+ - jekyll-seo-tag
