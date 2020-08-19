@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  校园报
-date: 1112-01-01
+date: 2012-01-01
 description:  
 tag: 创作
 
