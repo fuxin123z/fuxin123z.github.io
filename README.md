@@ -1,3 +1,6 @@
+![](https://github-readme-stats.vercel.app/api?username=fuxin123z&count_private=true)
+
+
 # Python3 in one pic
 
 [ Languages: [English](README.md) ]
