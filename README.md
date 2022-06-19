@@ -1,87 +1,29 @@
-![](https://github-readme-stats.vercel.app/api?username=fuxin123z&count_private=true)
+<p align="center">
+<img alt="Text-to-handwriting title image" src="https://res.cloudinary.com/saurabhdaware/image/upload/w_400/v1586015094/saurabh2019/text-to-handwriting-title.png" /> 
+<br/><b><a href="https://saurabhdaware.github.io/text-to-handwriting/">https://saurabhdaware.github.io/text-to-handwriting/</a></b><br/><br/><img alt="NPM Version" src="https://img.shields.io/github/package-json/v/saurabhdaware/text-to-handwriting?style=for-the-badge&labelColor=black&logo=npm&color=darkred" /> <a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a> <br/><a href="https://github.com/saurabhdaware/text-to-handwriting/blob/master/LICENSE"> <img alt="GitHub License MIT" src="https://img.shields.io/github/license/saurabhdaware/text-to-handwriting?style=for-the-badge&labelColor=black&logo=github"> </a><a href="https://twitter.com/saurabhcodes"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/saurabhcodes?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@saurabhcodes"></a><br/><br/> I hate writing assignments so I made this tool that converts text to an image that looks like handwriting😛
 
+</p>
 
-# Python3 in one pic
+*Note: This project is now archived. Read the announcement at https://github.com/saurabhdaware/text-to-handwriting/issues/138*
 
-[ Languages: [English](README.md) ]
+## 🌠 Output
 
-<!-- BADGES/ -->
-[![Gitter chat button](https://img.shields.io/badge/gitter-Join%20Chat-brightgreen.svg)](https://gitter.im/coodict/python3-in-one-pic)
-[![BitCoin donate button](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://www.coinbase.com/rainyear)
-<!-- /BADGES -->
+<img width="400" alt="Sample image of output" src="sample.jpeg" />
 
-# Online Version
+## 🤗 Contributing
 
-[https://git.io/Coo-py3](https://git.io/Coo-py3)
+Checkout [Contribution Guide](CONTRIBUTING.md) for local setup and contribution guide.
 
-## Notebook
+## 📚 Libraries used
 
-[IPython Notebook Version](https://github.com/coodict/python3-in-one-pic/blob/master/notebooks/py3-in-one-pic.ipynb)
+- [html2canvas](https://github.com/niklasvh/html2canvas) - Turns DOM into Canvas.
+- [jsPDF](https://github.com/MrRio/jsPDF) - To generate PDF from images.
+- [cypress](https://github.com/cypress-io/cypress) - Testing Library
+- [serve](https://github.com/zeit/serve) - Start local server
 
-## Preview
+---
 
-![py3 in one pic](py3%20in%20one%20pic.png)
+[<img alt="Buy me a Coffee Button" width=200 src="https://c5.patreon.com/external/logo/become_a_patron_button.png">](https://www.patreon.com/bePatron?u=31891872) &nbsp; [<img alt="Buy me a Coffee Button" width=200 src="https://cdn.buymeacoffee.com/buttons/default-yellow.png">](https://www.buymeacoffee.com/saurabhdaware)
 
-## Releated projects
-
-* [Javascript in one pic](https://github.com/coodict/javascript-in-one-pic)
-* Go in one pic (in preparation)
-
-## TODO
-- [X] Use IPython notebook, it's really very cool!
-
-- [X] `import this`
-- [X] Basic Syntax
-- [X] Native Datatypes
-  - [X] Number
-  - [X] String
-  - [X] Boolean
-  - [X] None
-  - [X] Byte
-  - [X] List
-  - [X] Tuple
-  - [X] Set
-  - [X] Dict
-- [X] Operators & Casting
-- [X] Flow Control
-  - [X] `if/elif/else`
-  - [X] `for...in...`
-  - [X] `while`
-  - [X] `break` & `continue`
-  - [X] Iterators & Generators
-  - [X] Comprehensions
-- [X] Function
-  - [X] Definition
-  - [X] Arguments
-  - [X] Lambda
-  - [X] Documentation
-  - [X] @decorator
-- [X] Class(OOP)
-  - [X] `class`
-  - [X] `__init__()` & `self`
-  - [X] Instance
-  - [X] Inheritance
-  - [X] Override
-- [X] Module
-  - [X] `import`
-  - [X] Search Path
-  - [X] Package
-- [ ] Pythonic
-- [ ] Standard Libraries
-  - [ ] `os, sys`
-  - [ ] `datetime`
-
-## Donation
-
-If you find this project helpful, please consider making a donation with [bitcoin](https://www.coinbase.com/rainyear) or [other way](https://github.com/rainyear/lolita/wiki/Donation) :beers:
-
-## References
-
-1. [Python 3.4.3 documentation](https://docs.python.org/3/index.html)
-2. [Dive Into Python 3](http://www.diveintopython3.net/table-of-contents.html)
-3. Writing Idiomatic Python 3.3
-4. [Google Python Style Guide](http://google.github.io/styleguide/pyguide.html)
-5. [廖雪峰的Python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
-
-## License
-See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
+Bye!
+Have fun 🦄
